@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RealmTest</string>
+    <string name="salvar">Salvar</string>
+    <string name="nome">Nome</string>
+    <string name="listar">Listar</string>
+    <string name="salvo_com_sucesso">Salvo com sucesso!!!</string>
+    <string name="erro_ao_salvar">Não foi possível salvar!!!</string>
+    <string name="show">Mostrar</string>
+    <string name="remover">Remover</string>
+</resources>
